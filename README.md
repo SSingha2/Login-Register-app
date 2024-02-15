@@ -1,4 +1,4 @@
-User Sign In/Sign Up Project using MERN Stack
+##User Sign In/Sign Up Project using MERN Stack
 
 This repository contains a User Sign In/Sign Up project built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This project allows users to register for an account, sign in securely, and access authenticated features.
 
